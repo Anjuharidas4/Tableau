@@ -7,8 +7,7 @@
 [UK-Bank-Customers.csv](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-UK-Bank-Customers.csv)
 
 # Inference
-England
--
+### England
 - 54% of Bank customers are from the United Kingdom which is the majority.
 - White-collar workers represent 70% of Customers in the UK perhaps because London being the economic center of Europe.
   
