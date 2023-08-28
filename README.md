@@ -22,10 +22,12 @@
 #### Northern Ireland
 - Majority of customers are predominantly Females(74%) and maximum bank balance is below 35k within the age group of 28 - 30.
 
-<img width="1256" alt="Screenshot 2023-08-28 at 4 05 33 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/ce63a2a0-7a25-4da1-82ff-715b9eaca473">
+<img width="1243" alt="Screenshot 2023-08-28 at 4 13 31 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/78edae1d-1da9-4514-98f4-d94898d6290e">
+
 
 #### Wales
 - Very different from the overall baseline in the Distribution of Balances, it reduces in the baseline but in the whales increases first then reduces.
 - Data for Wales shows above average representation of mid-sized balances.
-<img width="1256" alt="Screenshot 2023-08-28 at 3 05 00 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/110c4c4b-8f1f-4681-9ca4-7aa574288f3a">
+  
+<img width="1256" alt="Screenshot 2023-08-28 at 4 05 33 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/ce63a2a0-7a25-4da1-82ff-715b9eaca473">
 
