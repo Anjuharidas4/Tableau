@@ -1,5 +1,5 @@
 # UK Bank Segmentation Dashboard
-#UKBankCustomerBaseline #StoryLine #InteractiveDashboard #Bins&Parameters 
+#UKBankCustomerBaseline #StoryLine #InteractiveDashboard #Bins&Parameters #Annotations
 <img width="1204" alt="Screenshot 2023-08-28 at 1 25 26 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/84c90b4a-7669-483f-adf0-2db43d6b1f79">
 
 ## Dataset
@@ -17,15 +17,15 @@
 - The majority of customers are much older customers and predominantly males(72%).
 - Majority of the customers are more blue collar workers(48%), very few white - collar workers.
 
-<img width="1256" alt="Screenshot 2023-08-28 at 2 57 31 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/84871587-5cc9-44bc-bff1-4c46f551484f">
-
+<img width="1268" alt="Screenshot 2023-08-28 at 4 03 57 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/f4d1a0ad-1090-4796-8058-da2dbc1f0140">
 
 #### Northern Ireland
 - Majority of customers are predominantly Females(74%) and maximum bank balance is below 35k within the age group of 28 - 30.
 
-<img width="1257" alt="Screenshot 2023-08-28 at 3 00 39 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/0f4d4a39-5e8b-4bfd-836b-eacb330d400a">
+<img width="1256" alt="Screenshot 2023-08-28 at 4 05 33 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/ce63a2a0-7a25-4da1-82ff-715b9eaca473">
 
 #### Wales
-- 
+- Very different from the overall baseline in the Distribution of Balances, it reduces in the baseline but in the whales increases first then reduces.
+- Data for Wales shows above average representation of mid-sized balances.
 <img width="1256" alt="Screenshot 2023-08-28 at 3 05 00 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/110c4c4b-8f1f-4681-9ca4-7aa574288f3a">
 
