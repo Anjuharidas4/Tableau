@@ -18,6 +18,7 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
 <img width="1142" alt="Screenshot 2023-08-28 at 2 32 32 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/e5a6670d-cc3e-489f-b8ea-a691bd49b2f9">
 
 #### Scotland
+-
 - The majority of customers are much older customers and predominantly males(72%).
 - Majority of the customers are more blue collar workers(48%), very few white - collar workers.
 
@@ -27,7 +28,6 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
 - Majority of customers are predominantly Females(74%) and maximum bank balance is below 35k within the age group of 28 - 30.
 
 <img width="1243" alt="Screenshot 2023-08-28 at 4 13 31 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/78edae1d-1da9-4514-98f4-d94898d6290e">
-
 
 #### Wales
 - Very different from the overall baseline in the Distribution of Balances, it reduces in the baseline but in the whales increases first then reduces.
