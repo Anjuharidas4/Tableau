@@ -36,7 +36,7 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-# 2. WeWashUSleep ROMI analysis
+# 2. WeWashUSleep Startup Expansion
 #Groups #GeographicalRoles #CalculatedField #Highlighter #Clustering #KmeansClustering
 
 ### 1st Challenge
