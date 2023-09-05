@@ -1,4 +1,4 @@
-# United Kingdom Bank Customer Segmentation Dashboard
+# 1. United Kingdom Bank Customer Segmentation Dashboard
 #UKBankCustomerBaseline #StoryLine #InteractiveDashboard #Bins&Parameters #Annotations
 <img width="1204" alt="Screenshot 2023-08-28 at 1 25 26 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/84c90b4a-7669-483f-adf0-2db43d6b1f79">
 
@@ -18,7 +18,6 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
 <img width="1142" alt="Screenshot 2023-08-28 at 2 32 32 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/e5a6670d-cc3e-489f-b8ea-a691bd49b2f9">
 
 #### Scotland
--
 - The majority of customers are much older customers and predominantly males(72%).
 - Majority of the customers are more blue collar workers(48%), very few white - collar workers.
 
@@ -34,4 +33,10 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
 - Data for Wales shows above average representation of mid-sized balances.
   
 <img width="1256" alt="Screenshot 2023-08-28 at 4 05 33 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/ce63a2a0-7a25-4da1-82ff-715b9eaca473">
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# 2. WeWashUSleep Revenue Analysis using Groups 
+
+<img width="869" alt="Screenshot 2023-09-05 at 12 11 02 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/a13d2c5a-3572-4551-8ec9-2fdcb22cf38d">
 
