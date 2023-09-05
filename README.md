@@ -37,7 +37,7 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # 2. WeWashUSleep Startup Expansion
-#Groups #GeographicalRoles #CalculatedField #Highlighter #Clustering #KmeansClustering
+#Groups #GeographicalRoles #CalculatedField #Highlighter #Clustering #KmeansClustering #CrossDatabaseJoin 
 
 ### 1st Challenge
 - *Average Revenue per city, Average Marketing Spend per city, Average Revenue on marketing investment per city (Revenue / Marketing Spend).*<br />
@@ -50,7 +50,8 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
 
 ## Dataset
 
-https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-StartupExpansion.xlsx
+- https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-StartupExpansion.xlsx
+- https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-US-Cities-Population.csv
 
 ## Inference from 1st Challenge 
 - Region 2 has better returns on marketing spend compared to Region 1.
