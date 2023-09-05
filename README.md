@@ -36,7 +36,31 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-# 2. WeWashUSleep Revenue Analysis using Groups 
+# 2. WeWashUSleep ROMI analysis
+#Groups #GeographicalRoles #CalculatedField #Highlighter #Clustering #KmeansClustering
 
-<img width="869" alt="Screenshot 2023-09-05 at 12 11 02 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/a13d2c5a-3572-4551-8ec9-2fdcb22cf38d">
+### 1st Challenge
+- *Average Revenue per city, Average Marketing Spend per city, Average Revenue on marketing investment per city (Revenue / Marketing Spend).*<br />
+### 2nd Challenge 
+- *Top 10 New locations having the best potential for the company to invest more funds into marketing.*<br />
+
+## Dashboard
+
+https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentation_16933844934390/Story1?publish=yes
+
+## Dataset
+
+https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-StartupExpansion.xlsx
+
+## Inference from 1st Challenge 
+- Region 2 has better returns on marketing spend compared to Region 1.
+
+<img width="869" alt="Screenshot 2023-09-05 at 12 15 34 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/82297e16-03e0-4de6-a5c3-f17ccfe52360">
+
+## Inference from 2nd Challenge 
+- Two New Cities lie in the lower clustered cities where marketing spend is high and revenue is low hence investing in the higher clustered cities is ideal where marketing spend is average and revenue is also equally above average.
+  
+<img width="1030" alt="Screenshot 2023-09-05 at 3 04 30 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/40ab8428-3223-4786-a64e-9429359315a2">
+
+
 
