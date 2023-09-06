@@ -4,7 +4,7 @@
 
 ## Dashboard
 
-https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentation_16933844934390/Story1?publish=yes
+https://public.tableau.com/app/profile/anju.haridas/viz/WeWashUSleepnewstartupinvestmentROMIAnalysis/Sheet4?publish=yes
 
 ## Dataset
 
@@ -12,13 +12,13 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
 
 ## Inference
 #### England
-- 54% of Bank customers are from the United Kingdom which is the majority.
-- White-collar workers represent 70% of Customers in the UK perhaps because London is the economic center of Europe.
+- The majority of bank customers, 54%, are from the United Kingdom.
+- The UK customer base primarily consists of white-collar workers, constituting 70% of their clientele. This could be attributed to London's status as the economic hub of Europe.
   
 <img width="1142" alt="Screenshot 2023-08-28 at 2 32 32 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/e5a6670d-cc3e-489f-b8ea-a691bd49b2f9">
 
 #### Scotland
-- The majority of customers are much older customers and predominantly males(72%).
+- A significant majority of our customers are older individuals, with males making up the predominant group at 72%.
 - Majority of the customers are more blue collar workers(48%), very few white - collar workers.
 
 <img width="1268" alt="Screenshot 2023-08-28 at 4 03 57 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/f4d1a0ad-1090-4796-8058-da2dbc1f0140">
@@ -29,8 +29,8 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
 <img width="1243" alt="Screenshot 2023-08-28 at 4 13 31 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/78edae1d-1da9-4514-98f4-d94898d6290e">
 
 #### Wales
-- Very different from the overall baseline in the Distribution of Balances, it reduces in the baseline but in the whales increases first then reduces.
-- Data for Wales shows above average representation of mid-sized balances.
+- In contrast to the general baseline, there's a distinct pattern in the distribution of balances. While the baseline shows a decrease, the "whales" category initially experiences an increase before eventually declining.
+- The data for Wales indicates a higher-than-average presence of mid-sized balances.
   
 <img width="1256" alt="Screenshot 2023-08-28 at 4 05 33 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/ce63a2a0-7a25-4da1-82ff-715b9eaca473">
 
@@ -59,22 +59,22 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
 <img width="869" alt="Screenshot 2023-09-05 at 12 15 34 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/82297e16-03e0-4de6-a5c3-f17ccfe52360">
 
 ## Inference from 2nd Challenge 
-- Two New Cities lie in the lower clustered cities where marketing spend is high and revenue is low hence investing in the higher clustered cities is ideal where marketing spend is average and revenue is also equally above average.
+- Two new cities are situated within the lower-clustered cities, characterized by high marketing expenses but relatively low revenue. Therefore, it is advisable to allocate investments towards the higher-clustered cities, where marketing expenditure is moderate and revenue is consistently above average.
   
 <img width="1030" alt="Screenshot 2023-09-05 at 3 04 30 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/40ab8428-3223-4786-a64e-9429359315a2">
 
 ## Refined our analysis by cross joining the 2nd Dataset (Population) now inference from 2nd Challenge.
-- Red Trendline : For every dollar of marketing spend revenue is $0.94. Hence the company is losing money in this cluster/group of cities.
+- Red Trendline: With every dollar spent on marketing, the company generates revenue of $0.94. Consequently, in this cluster or group of cities, the company is operating at a loss.
 
 <img width="894" alt="Screenshot 2023-09-06 at 2 36 28 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/de091a30-9874-4d01-a8a5-4386a6028c6f">
 
 
-- Orange Trendline : For every dollar of marketing spend revenue is $7.32. Hence the company is making money in this cluster/group of cities.
+- Orange Trendline: With every dollar spent on marketing, the company generates revenue of $7.32. Consequently, in this cluster or group of cities, the company is profitable.
 
 <img width="894" alt="Screenshot 2023-09-06 at 2 36 48 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/57ee357a-46e2-49d8-9a19-9e89f5e4ed5b">
 
   
-- Blue Trendline : For every dollar of marketing spend revenue is $3.17. Hence the company is making money in this cluster/group of cities.
+- Blue Trendline: With every dollar spent on marketing, the company generates revenue of $3.17. Consequently, in this cluster or group of cities, the company is profitable.
 
 <img width="896" alt="Screenshot 2023-09-06 at 2 37 00 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/981a1adc-3cd6-48a1-8b26-836e4240fa03">
 
