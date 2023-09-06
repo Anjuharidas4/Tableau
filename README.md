@@ -1,5 +1,5 @@
 # 1. United Kingdom Bank Customer Segmentation Dashboard
-#UKBankCustomerBaseline #StoryLine #InteractiveDashboard #Bins&Parameters #Annotations
+#UKBankCustomerBaseline #StoryLine #InteractiveDashboard #Bins&Parameters #Annotations 
 <img width="1204" alt="Screenshot 2023-08-28 at 1 25 26 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/84c90b4a-7669-483f-adf0-2db43d6b1f79">
 
 ## Dashboard
@@ -37,7 +37,7 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # 2. WeWashUSleep Startup Expansion
-#Groups #GeographicalRoles #CalculatedField #Highlighter #Clustering #KmeansClustering #CrossDatabaseJoin 
+#Groups #GeographicalRoles #CalculatedField #Highlighter #Clustering #KmeansClustering #CrossDatabaseJoin #ThreeDimensionalModeling #TrendLine
 
 ### 1st Challenge
 - *Average Revenue per city, Average Marketing Spend per city, Average Revenue on marketing investment per city (Revenue / Marketing Spend).*<br />
@@ -62,6 +62,26 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
 - Two New Cities lie in the lower clustered cities where marketing spend is high and revenue is low hence investing in the higher clustered cities is ideal where marketing spend is average and revenue is also equally above average.
   
 <img width="1030" alt="Screenshot 2023-09-05 at 3 04 30 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/40ab8428-3223-4786-a64e-9429359315a2">
+
+## Refined our analysis by cross joining the 2nd Dataset (Population) now inference from 2nd Challenge.
+- Red Trendline : For every dollar of marketing spend revenue is $0.94. Hence the company is losing money in this cluster/group of cities.
+
+<img width="894" alt="Screenshot 2023-09-06 at 2 36 28 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/de091a30-9874-4d01-a8a5-4386a6028c6f">
+
+
+- Orange Trendline : For every dollar of marketing spend revenue is $7.32. Hence the company is making money in this cluster/group of cities.
+
+<img width="894" alt="Screenshot 2023-09-06 at 2 36 48 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/57ee357a-46e2-49d8-9a19-9e89f5e4ed5b">
+
+  
+- Blue Trendline : For every dollar of marketing spend revenue is $3.17. Hence the company is making money in this cluster/group of cities.
+
+<img width="896" alt="Screenshot 2023-09-06 at 2 37 00 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/981a1adc-3cd6-48a1-8b26-836e4240fa03">
+
+## Conclusion
+- Recommend that WeWashUSleep increase its marketing efforts in three new orange cities: California, Illinois, and New Jersey.
+
+
 
 
 
