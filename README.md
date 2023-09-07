@@ -86,6 +86,19 @@ ________________________________________________________________________________
 # 3. New York Crime/Incidents Statistics
 #ImportSpacialDataFromOpenSourcePlatforms #ImportpdfFile #JoinSpacialPdf #CleanData #RemoveDuplicates $CreategeographicalPolygons
 
+## Dashboard
+
+https://public.tableau.com/app/profile/anju.haridas/viz/NewYorkCrimeStatistics_16940852843130/Sheet3?publish=yes
+
+## Dataset
+
+- https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-nyc-park-crime-stats-q1-2018.pdf
+- https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-NYC-Parks-and-Public-Spaces-Spatial-Files.zip
+
+## Inference 
 
 <img width="504" alt="Screenshot 2023-09-07 at 4 34 56 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/09b09af9-af4a-478c-a056-13f03f08fd74">
+
+
+
 
