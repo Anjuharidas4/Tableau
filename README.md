@@ -63,7 +63,7 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
   
 <img width="1030" alt="Screenshot 2023-09-05 at 3 04 30 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/40ab8428-3223-4786-a64e-9429359315a2">
 
-## Refined our analysis by cross joining the 2nd Dataset (Population) now inference from 2nd Challenge.
+## Refined our analysis by cross joining the 2nd Dataset (Population), now inference from 2nd Challenge.
 - Red Trendline: With every dollar spent on marketing, the company generates revenue of $0.94. Consequently, in this cluster or group of cities, the company is operating at a loss.
 
 <img width="894" alt="Screenshot 2023-09-06 at 2 36 28 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/de091a30-9874-4d01-a8a5-4386a6028c6f">
@@ -81,7 +81,11 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
 ## Conclusion
 - Recommend that WeWashUSleep increase its marketing efforts in three new orange cities: California, Illinois, and New Jersey.
 
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# 3.New York Crime statistics
+#ImportSpacialDataFromOpenSourcePlatforms #ImportpdfFile #JoinSpacialPdf #CleanData #RemoveDuplicates $CreategeographicalPolygons
 
 
-
+<img width="504" alt="Screenshot 2023-09-07 at 4 34 56 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/09b09af9-af4a-478c-a056-13f03f08fd74">
 
