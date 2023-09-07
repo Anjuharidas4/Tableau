@@ -83,7 +83,7 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-# 3. New York Crime Statistics
+# 3. New York Crime/Incidents Statistics
 #ImportSpacialDataFromOpenSourcePlatforms #ImportpdfFile #JoinSpacialPdf #CleanData #RemoveDuplicates $CreategeographicalPolygons
 
 
