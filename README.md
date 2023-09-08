@@ -107,8 +107,8 @@ https://public.tableau.com/app/profile/anju.haridas/viz/NewYorkCrimeStatistics_1
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-# 4. Average Annual Salary - Exclusively for County 
-#Filters #CalculatedFields #DataCleaning #RemoveDuplicates $TooltipVizuilisation
+# 4. Average Annual Salary - New York Employment Data
+#Filters #CalculatedFields #DataCleaning #RemoveDuplicates $Tooltipvisualization
 
 ## Dashboard
 
@@ -118,4 +118,5 @@ https://public.tableau.com/app/profile/anju.haridas/viz/AverageAnnualSalary-NewY
 
 - https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-quarterly-census-of-employment-and-wages-annual-data-beginning-2000.csv
 
+<img width="981" alt="Screenshot 2023-09-08 at 5 17 23 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/baed5953-8a53-4700-a870-f5d88122816e">
 
