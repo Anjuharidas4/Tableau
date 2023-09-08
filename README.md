@@ -8,7 +8,7 @@ https://public.tableau.com/app/profile/anju.haridas/viz/WeWashUSleepnewstartupin
 
 ## Dataset
 
-[UK-Bank-Customers.csv](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-UK-Bank-Customers.csv)
+https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentation_16933844934390/Story1?publish=yes
 
 ## Inference
 #### England
@@ -46,7 +46,7 @@ ________________________________________________________________________________
 
 ## Dashboard
 
-https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentation_16933844934390/Story1?publish=yes
+https://public.tableau.com/app/profile/anju.haridas/viz/WeWashUSleepnewstartupinvestmentROMIAnalysis/Sheet4?publish=yes
 
 ## Dataset
 
