@@ -108,7 +108,7 @@ ________________________________________________________________________________
 
 
 # 4. Average Annual Salary - New York Employment Data
-#Filters #CalculatedFields #DataCleaning #RemoveDuplicates $Tooltipvisualization
+#Filters #CalculatedFields #DataCleaning #RemoveDuplicates $TooltipVisualization
 
 ## Dashboard
 
