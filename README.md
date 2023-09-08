@@ -34,7 +34,9 @@ https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentati
   
 <img width="1256" alt="Screenshot 2023-08-28 at 4 05 33 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/ce63a2a0-7a25-4da1-82ff-715b9eaca473">
 
+
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 # 2. WeWashUSleep Startup Expansion
 #Groups #GeographicalRoles #CalculatedField #Highlighter #Clustering #KmeansClustering #CrossDatabaseJoin #ThreeDimensionalModeling #TrendLine
@@ -81,7 +83,9 @@ https://public.tableau.com/app/profile/anju.haridas/viz/WeWashUSleepnewstartupin
 ## Conclusion
 - Recommend that WeWashUSleep increase its marketing efforts in three new orange cities: California, Illinois, and New Jersey.
 
+
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 # 3. New York Crime/Incidents Statistics
 #ImportSpacialDataFromOpenSourcePlatforms #ImportpdfFile #JoinSpacialPdf #CleanData #RemoveDuplicates $CreategeographicalPolygons
@@ -100,5 +104,18 @@ https://public.tableau.com/app/profile/anju.haridas/viz/NewYorkCrimeStatistics_1
 <img width="504" alt="Screenshot 2023-09-07 at 4 34 56 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/09b09af9-af4a-478c-a056-13f03f08fd74">
 
 
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+# 4. Average Annual Salary - Exclusively for County 
+#Filters #CalculatedFields #DataCleaning #RemoveDuplicates $TooltipVizuilisation
+
+## Dashboard
+
+https://public.tableau.com/app/profile/anju.haridas/viz/AverageAnnualSalary-NewYorkEmploymentData/AvgAnnualSalaryMap?publish=yes
+
+## Dataset
+
+- https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-quarterly-census-of-employment-and-wages-annual-data-beginning-2000.csv
 
 
