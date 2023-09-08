@@ -118,5 +118,6 @@ https://public.tableau.com/app/profile/anju.haridas/viz/AverageAnnualSalary-NewY
 
 - https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-quarterly-census-of-employment-and-wages-annual-data-beginning-2000.csv
 
-<img width="981" alt="Screenshot 2023-09-08 at 5 17 23 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/baed5953-8a53-4700-a870-f5d88122816e">
+<img width="939" alt="Screenshot 2023-09-08 at 5 30 48 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/c71179d9-ce5d-487f-94d2-b601be64ec9a">
+
 
