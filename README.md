@@ -120,4 +120,5 @@ https://public.tableau.com/app/profile/anju.haridas/viz/AverageAnnualSalary-NewY
 
 <img width="939" alt="Screenshot 2023-09-08 at 5 30 48 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/c71179d9-ce5d-487f-94d2-b601be64ec9a">
 
+<img width="981" alt="Screenshot 2023-09-08 at 5 17 23 PM" src="https://github.com/Anjuharidas4/Tableau/assets/108412331/aedc0a80-9658-4f2c-9d06-ce19a8deead3">
 
