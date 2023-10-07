@@ -4,7 +4,7 @@
 
 ## Dashboard
 
-https://public.tableau.com/app/profile/anju.haridas/viz/WeWashUSleepnewstartupinvestmentROMIAnalysis/Sheet4?publish=yes
+https://public.tableau.com/app/profile/anju.haridas/viz/UKBankCustomerSegmentation_16933844934390/Story1
 
 ## Dataset
 
